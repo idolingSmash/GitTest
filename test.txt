@@ -4,3 +4,4 @@
 -------------------
 What's Tom?
 Tom is a blue cat.
+Tom is a long cat.
